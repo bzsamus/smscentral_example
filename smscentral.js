@@ -4,7 +4,7 @@ var request     = require('request'),
     password    = 'password',
     action      = 'send',
     originator  = 'shared',
-    recipient   = '0434390783',
+    recipient   = '0400xxxxxx',
     messagetext = 'Hello from SMSCentral!';
 
 
