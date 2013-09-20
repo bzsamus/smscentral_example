@@ -1,6 +1,6 @@
 var request     = require('request'),
     url         = 'https://my.smscentral.com.au/wrapper/sms',
-    username    = 'sam',
+    username    = 'username',
     password    = 'password',
     action      = 'send',
     originator  = 'shared',
